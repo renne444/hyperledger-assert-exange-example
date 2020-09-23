@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fbcd8937-9332-44d8-9a48-809c05208903" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="/usr/local/go" />
+  <component name="ProjectId" id="1Z1OyVrLnOVRNR2y4SiBE1T98d3" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../.." />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/application" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/chaincode/assertExchange" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Go Build.go build main.go (1)">
+    <configuration name="go build github.com/hyperledger/renne/application" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="renne" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/application/main.go" />
+      <package value="github.com/hyperledger/renne/application" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build github.com/hyperledger/renne/chaincode/assertExchange" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="renne" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/chaincode/assertExchange/assertExchange.go" />
+      <package value="github.com/hyperledger/renne/chaincode/assertExchange" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build github.com/hyperledger/renne/gin" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="renne" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/gin/main.go" />
+      <package value="github.com/hyperledger/renne/gin" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build main.go (1)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="renne" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/consensus-simulation/main.go" />
+      <package value="github.com/hyperledger/renne" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build main.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="renne" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/application/main.go" />
+      <package value="github.com/hyperledger/renne" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build main.go (1)" />
+        <item itemvalue="Go Build.go build main.go" />
+        <item itemvalue="Go Build.go build github.com/hyperledger/renne/gin" />
+        <item itemvalue="Go Build.go build github.com/hyperledger/renne/application" />
+        <item itemvalue="Go Build.go build github.com/hyperledger/renne/chaincode/assertExchange" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="553" y="205" width="800" height="677" key="#Go_Modules_(vgo)" timestamp="1587441306125">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="553" y="205" width="800" height="677" key="#Go_Modules_(vgo)/67.27.1853.1053@67.27.1853.1053" timestamp="1587441306125" />
+    <state x="677" y="357" width="623" height="390" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1584004182166">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="677" y="357" width="623" height="390" key="#com.intellij.fileTypes.FileTypeChooser/67.27.1853.1053@67.27.1853.1053" timestamp="1584004182166" />
+    <state x="776" y="310" width="424" height="484" key="FileChooserDialogImpl" timestamp="1589079272250">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="776" y="310" width="424" height="484" key="FileChooserDialogImpl/67.27.1853.1053@67.27.1853.1053" timestamp="1589079272250" />
+    <state width="1807" height="208" key="GridCell.Tab.0.bottom" timestamp="1589079273939">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="208" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1589079273939" />
+    <state width="1807" height="208" key="GridCell.Tab.0.center" timestamp="1589079273938">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="208" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1589079273938" />
+    <state width="1807" height="208" key="GridCell.Tab.0.left" timestamp="1589079273937">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="208" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1589079273937" />
+    <state width="1807" height="208" key="GridCell.Tab.0.right" timestamp="1589079273939">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="208" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1589079273939" />
+    <state width="1807" height="208" key="GridCell.Tab.1.bottom" timestamp="1589079273942">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="208" key="GridCell.Tab.1.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1589079273942" />
+    <state width="1807" height="208" key="GridCell.Tab.1.center" timestamp="1589079273941">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="208" key="GridCell.Tab.1.center/67.27.1853.1053@67.27.1853.1053" timestamp="1589079273941" />
+    <state width="1807" height="208" key="GridCell.Tab.1.left" timestamp="1589079273940">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="208" key="GridCell.Tab.1.left/67.27.1853.1053@67.27.1853.1053" timestamp="1589079273940" />
+    <state width="1807" height="208" key="GridCell.Tab.1.right" timestamp="1589079273941">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="208" key="GridCell.Tab.1.right/67.27.1853.1053@67.27.1853.1053" timestamp="1589079273941" />
+    <state x="478" y="141" width="1020" height="823" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1587372673295">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="478" y="141" width="1020" height="823" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/67.27.1853.1053@67.27.1853.1053" timestamp="1587372673295" />
+  </component>
+</project>
